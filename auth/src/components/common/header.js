@@ -35,7 +35,7 @@ const styles = {
 };
 
 // Make the components available to other parts of the app
-export default Header;
+export { Header };
 
 
 // FlexBox is a system of positioning elements within a container
